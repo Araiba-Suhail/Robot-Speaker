@@ -3,7 +3,7 @@ Robot Speaker Program with Timer
 The Robot Speaker Program is a Python-based program that takes user input and returns the output by converting it into speech using the Windows text-to-speech functionality. The program also includes a timer feature, allowing the user to interact within a specified time limit.
 
 Features:
-Converts user input into speech using Windows text-to-speech.\
+Converts user input into speech using Windows text-to-speech.\n
 Uses a timer to limit user interaction within a specific time period.\
 
 Requirements:
